@@ -1,2 +1,2 @@
 # counter
-# simple counter created with html, css, js
+# simple counter created with node.js html, css, js
